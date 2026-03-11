@@ -45,7 +45,6 @@ O projeto é ideal para quem está **aprendendo PHP e lógica de programação**
 |---|---|
 | PHP | Lógica do backend |
 | HTML5 | Estrutura das páginas |
-| CSS3 | Estilização |
 | HTTP POST | Envio de formulários |
 
 ---
@@ -124,8 +123,6 @@ php-exercicios/
 Recomendado:
 
 - XAMPP  
-- WAMP  
-- Laragon  
 
 ---
 
