@@ -2,9 +2,8 @@
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Status](https://img.shields.io/badge/status-estudo-success)
-![Licença](https://img.shields.io/badge/licença-MIT-blue)
+
 
 Coleção de **15 exercícios práticos em PHP** desenvolvidos para praticar **lógica de programação, formulários e desenvolvimento web básico**.
 
