@@ -1,64 +1,81 @@
-📌 Sobre o Projeto
+# 🚀 Exercícios de PHP — Prática de Programação Web
 
-Este repositório contém 15 exercícios desenvolvidos em PHP com o objetivo de praticar conceitos fundamentais da programação web.
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Status](https://img.shields.io/badge/status-estudo-success)
+![Licença](https://img.shields.io/badge/licença-MIT-blue)
 
-Cada exercício possui:
+Coleção de **15 exercícios práticos em PHP** desenvolvidos para praticar **lógica de programação, formulários e desenvolvimento web básico**.
 
-✔ Interface com HTML + CSS
-✔ Processamento com PHP
-✔ Validação de dados do usuário
-✔ Exibição de resultados em tempo real
-✔ Layout simples baseado em cards centralizados
+---
 
-O projeto é ideal para quem está aprendendo PHP e lógica de programação.
+# 📌 Sobre o Projeto
 
-🧭 Índice
+Este repositório contém **15 exercícios desenvolvidos em PHP** com o objetivo de praticar conceitos fundamentais da programação web.
 
-Sobre o Projeto
+Cada exercício inclui:
 
-Tecnologias Utilizadas
+- Interface com **HTML + CSS**
+- Processamento com **PHP**
+- **Validação de dados do usuário**
+- **Exibição de resultados**
+- Layout simples baseado em **cards**
 
-Lista de Exercícios
+O projeto é ideal para quem está **aprendendo PHP e lógica de programação**.
 
-Estrutura do Projeto
+---
 
-Como Executar
+# 🧭 Índice
 
-Objetivos de Aprendizado
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Exercícios Inclusos](#-exercícios-inclusos)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Como Executar](#-como-executar-o-projeto)
+- [Objetivos de Aprendizado](#-objetivos-de-aprendizado)
+- [Possíveis Melhorias](#-possíveis-melhorias)
+- [Autor](#-autor)
+- [Licença](#-licença)
 
-Melhorias Futuras
+---
 
-Autor
+# 🛠 Tecnologias Utilizadas
 
-Licença
+| Tecnologia | Utilização |
+|---|---|
+| PHP | Lógica do backend |
+| HTML5 | Estrutura das páginas |
+| CSS3 | Estilização |
+| HTTP POST | Envio de formulários |
 
-🛠 Tecnologias Utilizadas
-Tecnologia	Utilização
-PHP	Lógica do backend
-HTML5	Estrutura das páginas
-CSS3	Estilização
-HTTP POST	Envio de formulários
-📚 Exercícios Inclusos
-Nº	Exercício	Descrição
-01	Conversor de Moedas	Converte Reais para Dólares
-02	Área e Perímetro	Calcula área e perímetro de um retângulo
-03	Consumo de Combustível	Calcula o consumo médio em Km/L
-04	Situação do Aluno	Calcula média e define situação do aluno
-05	Verificador de Idade	Verifica situação eleitoral
-06	Par ou Ímpar	Identifica se o número é par ou ímpar
-07	Dia da Semana	Converte número para dia da semana
-08	Calculadora Simples	Operações matemáticas básicas
-09	Mês por Extenso	Converte número para nome do mês
-10	Fatorial	Calcula o fatorial de um número
-11	Somatório	Soma números de 1 até N
-12	Sequência de Pares	Lista números pares em um intervalo
-13	Média de Valores	Calcula média de 5 notas
-14	Lista de Compras	Seleção de itens com checkbox
-15	Maior e Menor	Identifica maior e menor número
-💻 Exemplo de Interface
+---
 
-Todos os exercícios seguem um layout simples baseado em cards:
+# 📚 Exercícios Inclusos
 
+| Nº | Exercício | Descrição |
+|---|---|---|
+| 01 | Conversor de Moedas | Converte Reais para Dólares |
+| 02 | Área e Perímetro | Calcula área e perímetro de um retângulo |
+| 03 | Consumo de Combustível | Calcula o consumo médio em Km/L |
+| 04 | Situação do Aluno | Calcula média e define situação do aluno |
+| 05 | Verificador de Idade | Verifica situação eleitoral |
+| 06 | Par ou Ímpar | Identifica se o número é par ou ímpar |
+| 07 | Dia da Semana | Converte número para dia da semana |
+| 08 | Calculadora Simples | Operações matemáticas básicas |
+| 09 | Mês por Extenso | Converte número para nome do mês |
+| 10 | Fatorial | Calcula o fatorial de um número |
+| 11 | Somatório | Soma números de 1 até N |
+| 12 | Sequência de Pares | Lista números pares em um intervalo |
+| 13 | Média de Valores | Calcula média de 5 notas |
+| 14 | Lista de Compras | Seleção de itens com checkbox |
+| 15 | Maior e Menor | Identifica maior e menor número |
+
+---
+
+# 💻 Exemplo de Interface
+
+```
 ┌───────────────────────────────┐
 │ Conversor de Moedas           │
 │                               │
@@ -69,10 +86,15 @@ Todos os exercícios seguem um layout simples baseado em cards:
 │                               │
 │ Resultado: US$ XX,XX          │
 └───────────────────────────────┘
+```
 
-O foco é clareza, validação e feedback ao usuário.
+O foco é **clareza, validação e feedback ao usuário**.
 
-📂 Estrutura do Projeto
+---
+
+# 📂 Estrutura do Projeto
+
+```
 php-exercicios/
 │
 ├── index.php
@@ -92,51 +114,73 @@ php-exercicios/
 ├── ex13_media_notas.php
 ├── ex14_lista_compras.php
 └── ex15_maior_menor.php
-⚙️ Como Executar o Projeto
-1️⃣ Instalar um servidor local
+```
+
+---
+
+# ⚙️ Como Executar o Projeto
+
+## 1️⃣ Instalar um servidor local
 
 Recomendado:
 
-XAMPP
+- XAMPP  
+- WAMP  
+- Laragon  
 
-WAMP
+---
 
-Laragon
+## 2️⃣ Clonar o repositório
 
-2️⃣ Clonar o repositório
+```bash
 git clone https://github.com/seuusuario/php-exercicios.git
-3️⃣ Colocar o projeto na pasta do servidor
+```
 
-Exemplo usando XAMPP:
+---
 
+## 3️⃣ Colocar o projeto na pasta do servidor
+
+Exemplo com **XAMPP**:
+
+```
 xampp/htdocs/php-exercicios
-4️⃣ Iniciar o Apache
+```
 
-Abra o painel do XAMPP e inicie:
+---
 
+## 4️⃣ Iniciar o Apache
+
+Abra o **painel do XAMPP** e inicie o serviço:
+
+```
 Apache
-5️⃣ Acessar no navegador
+```
+
+---
+
+## 5️⃣ Acessar no navegador
+
+```
 http://localhost/php-exercicios
-🎯 Objetivos de Aprendizado
+```
+
+---
+
+# 🎯 Objetivos de Aprendizado
 
 Este projeto ajuda a praticar:
 
-Fundamentos do PHP
-
-Lógica de programação
-
-Manipulação de formulários
-
-Validação de dados
-
-Estruturas condicionais
-
-Estruturas de repetição
-
-Integração entre backend e frontend
+- Fundamentos do **PHP**
+- **Lógica de programação**
+- **Manipulação de formulários**
+- **Validação de dados**
+- **Estruturas condicionais**
+- **Estruturas de repetição**
+- Integração entre **backend e frontend**
 
 Conceitos utilizados:
 
+```
 if / else
 switch
 for
@@ -145,24 +189,27 @@ arrays
 filter_var()
 number_format()
 POST forms
-🔮 Possíveis Melhorias
+```
 
-Algumas ideias para evoluir o projeto:
+---
 
-Adicionar validação com JavaScript
+# 🔮 Possíveis Melhorias
 
-Melhorar o design com Bootstrap
+Ideias para evoluir o projeto:
 
-Criar sistema de navegação entre exercícios
+- Adicionar **validação com JavaScript**
+- Melhorar o design com **Bootstrap**
+- Criar **sistema de navegação entre exercícios**
+- Salvar dados em **banco de dados**
+- Transformar em **plataforma de exercícios**
+- Adicionar **dashboard de estatísticas**
 
-Salvar dados em banco de dados
+---
 
-Transformar em plataforma de exercícios
+# 👨‍💻 Autor
 
-Adicionar painel de estatísticas
+Projeto desenvolvido para **prática de PHP e lógica de programação**.
 
-👨‍💻 Autor
+Sinta-se livre para **estudar, modificar e melhorar o código**.
 
-Projeto desenvolvido para prática de PHP e lógica de programação.
-
-Sinta-se livre para estudar, modificar e melhorar o código.
+---
